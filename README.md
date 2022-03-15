@@ -24,6 +24,8 @@
 
 !!! JANGAN DI UBAH FORMAT SELAIN (proxies:) !!!
 
+    HARUS MAKE BUG IP/GK BISA DOMAIN
+
 1. micro .config/clash/config.yaml
 
 2. SAVE: CTRL terus S
