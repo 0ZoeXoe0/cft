@@ -33,6 +33,11 @@
 
 1. gas
 
+# ATUR APN
+
+PROXY : 127.0.0.1
+PORT : 7890
+
 # MASUK WEB PANEL
 
 http://127.0.0.1:9090/ui/#/proxies
