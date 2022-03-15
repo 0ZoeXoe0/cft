@@ -25,7 +25,7 @@ echo -e $b"➤ "$w" installing pacakge: "$g"micro"$w
 pkg install micro
 echo ""
 
-cd $HOME/ClashForTermux
+cd $HOME/cft
 sleep 2
 
 echo -e $b"➤ "$w" coppying yacd-dashbord: "$g"yacd"$w
@@ -49,6 +49,6 @@ sleep 2
 rm -r -f yacd-gh-pages.zip
 sleep 2
 cd
-rm -r -f ClashForTermux
+rm -r -f cft
 clash
 clear
