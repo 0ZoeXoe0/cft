@@ -10,6 +10,8 @@
 
 # INSTALL METACORE
 
+!!! CONTOH ARMv8, KALAU MAU ARMv7 GANTI 8 KE 7 !!!
+
 1. wget https://github.com/0ZoeXoe0/cft/releases/download/METACORE/Clash.Meta-linux-armv8-develop-52c37f7.gz
 2. gunzip Clash.Meta-linux-armv8-develop-52c37f7.gz
 3. mv Clash.Meta-linux-armv8-develop-52c37f7 gas
