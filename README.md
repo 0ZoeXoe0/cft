@@ -13,8 +13,8 @@
 1. wget https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-android-arm64-v1.10.0.gz
 2. gunzip Clash.Meta-android-arm64-v1.10.0.gz
 3. mv Clash.Meta-android-arm64-v1.10.0 gas
-4. mv gas /data/data/com.termux/files/usr/bin/
-5. cd /data/data/com.termux/files/usr/bin/
+4. mv gas $PREFIX/bin
+5. cd $PREFIX/bin
 6. chmod 755 gas
 7. cd
 
