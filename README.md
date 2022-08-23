@@ -10,8 +10,10 @@
 
 # INSTALL METACORE
 
-1. wget https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-android-arm64-v1.10.0.gz
-2. gunzip Clash.Meta-android-arm64-v1.10.0.gz
+1. LINK CORE META CONTOHNYA
+   wget https://github.com/MetaCubeX/Clash.Meta/releases/download/v1.10.0/Clash.Meta-android-arm64-v1.10.0.gz
+2. NAMA CORE META YANG LU DOWNLOAD
+   gunzip Clash.Meta-android-arm64-v1.10.0.gz
 3. mv Clash.Meta-android-arm64-v1.10.0 gas
 4. mv gas $PREFIX/bin
 5. cd $PREFIX/bin
